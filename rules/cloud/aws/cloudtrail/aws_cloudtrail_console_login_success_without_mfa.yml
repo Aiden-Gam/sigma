@@ -1,6 +1,6 @@
 title: AWS Successful Console Login Without MFA
 id: 77caf516-34e5-4df9-b4db-20744fea0a60
-status: experimental
+status: test
 description: |
     Detects successful AWS console logins that were performed without Multi-Factor Authentication (MFA).
     This alert can be used to identify potential unauthorized access attempts, as logging in without MFA can indicate compromised credentials or misconfigured security settings.

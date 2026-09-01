@@ -1,6 +1,6 @@
 title: WFP Filter Added via Registry
 id: 1f1d8209-636e-4c6c-a137-781cca8b82f9
-status: experimental
+status: test
 description: |
     Detects registry modifications that add Windows Filtering Platform (WFP) filters, which may be used to block security tools and EDR agents from reporting events.
 references:

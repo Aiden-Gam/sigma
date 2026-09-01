@@ -1,6 +1,6 @@
 title: FortiGate - Firewall Address Object Added
 id: 5c8d7b41-3812-432f-a0bb-4cfb7c31827e
-status: experimental
+status: test
 description: Detects the addition of firewall address objects on a Fortinet FortiGate Firewall.
 references:
     - https://www.fortiguard.com/psirt/FG-IR-24-535

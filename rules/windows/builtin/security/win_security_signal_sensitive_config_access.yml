@@ -1,6 +1,6 @@
 title: File Access Of Signal Desktop Sensitive Data
 id: 5d6c375a-18ae-4952-b4f6-8b803f6c8555
-status: experimental
+status: test
 description: |
     Detects access to Signal Desktop's sensitive data files: db.sqlite and config.json.
     The db.sqlite file in Signal Desktop stores all locally saved messages in an encrypted SQLite database, while the config.json contains the decryption key needed to access that data.

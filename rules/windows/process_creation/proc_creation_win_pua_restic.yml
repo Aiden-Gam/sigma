@@ -1,6 +1,6 @@
 title: PUA - Restic Backup Tool Execution
 id: 6ddff2e8-ea1a-45d0-8938-93dfc1d67ae7
-status: experimental
+status: test
 description: |
     Detects the execution of the Restic backup tool, which can be used for data exfiltration.
     Threat actors may leverage Restic to back up and exfiltrate sensitive data to remote storage locations, including cloud services.

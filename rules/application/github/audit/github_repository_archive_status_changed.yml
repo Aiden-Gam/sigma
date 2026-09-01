@@ -1,6 +1,6 @@
 title: GitHub Repository Archive Status Changed
 id: dca8991c-cb16-4128-abf8-6b11e5cd156f
-status: experimental
+status: test
 description: |
     Detects when a GitHub repository is archived or unarchived, which may indicate unauthorized changes to repository status.
 references:

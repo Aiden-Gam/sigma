@@ -1,6 +1,6 @@
 title: FortiGate - New VPN SSL Web Portal Added
 id: 2bfb6216-0c31-4d20-8501-2629b29a3fa2
-status: experimental
+status: test
 description: |
     Detects the addition of a VPN SSL Web Portal on a Fortinet FortiGate Firewall.
     This behavior was observed in pair with modification of VPN SSL settings.

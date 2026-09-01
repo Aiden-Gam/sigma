@@ -1,6 +1,6 @@
 title: AWS Bucket Deleted
 id: 39c9f26d-6e3b-4dbb-9c7a-4154b0281112
-status: experimental
+status: test
 description: |
     Detects the deletion of S3 buckets in AWS CloudTrail logs.
     Monitoring the deletion of S3 buckets is critical for security and data integrity, as it may indicate potential data loss or unauthorized access attempts.
