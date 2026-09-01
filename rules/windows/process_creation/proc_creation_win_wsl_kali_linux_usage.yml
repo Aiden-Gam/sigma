@@ -1,6 +1,6 @@
 title: WSL Kali-Linux Usage
 id: 6f1a11aa-4b8a-4b7f-9e13-4d3e4ff0e0d4
-status: experimental
+status: test
 description: Detects the use of Kali Linux through Windows Subsystem for Linux
 references:
     - https://medium.com/@redfanatic7/running-kali-linux-on-windows-51ad95166e6e

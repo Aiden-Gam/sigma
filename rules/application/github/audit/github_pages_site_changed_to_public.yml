@@ -1,6 +1,6 @@
 title: GitHub Repository Pages Site Changed to Public
 id: 0c46d4f4-a2bf-4104-9597-8d653fc2bb55
-status: experimental
+status: test
 description: |
     Detects when a GitHub Pages site of a repository is made public. This usually is part of a publishing process but could indicate or lead to potential unauthorized exposure of sensitive information or code.
 references:

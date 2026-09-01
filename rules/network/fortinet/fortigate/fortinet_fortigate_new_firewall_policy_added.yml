@@ -1,6 +1,6 @@
 title: FortiGate - New Firewall Policy Added
 id: f24ab7a8-f09a-4319-82c1-915586aa642b
-status: experimental
+status: test
 description: Detects the addition of a new firewall policy on a Fortinet FortiGate Firewall.
 references:
     - https://www.fortiguard.com/psirt/FG-IR-24-535

@@ -1,6 +1,6 @@
 title: FortiGate - VPN SSL Settings Modified
 id: 8b5dacf2-aeb7-459d-b133-678eb696d410
-status: experimental
+status: test
 description: |
     Detects the modification of VPN SSL Settings (for example, the modification of authentication rules).
     This behavior was observed in pair with the addition of a VPN SSL Web Portal.

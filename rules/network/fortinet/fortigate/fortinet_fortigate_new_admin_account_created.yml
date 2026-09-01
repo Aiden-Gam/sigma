@@ -1,6 +1,6 @@
 title: FortiGate - New Administrator Account Created
 id: cd0a4943-0edd-42cf-b50c-06f77a10d4c1
-status: experimental
+status: test
 description: Detects the creation of an administrator account on a Fortinet FortiGate Firewall.
 references:
     - https://www.fortiguard.com/psirt/FG-IR-24-535

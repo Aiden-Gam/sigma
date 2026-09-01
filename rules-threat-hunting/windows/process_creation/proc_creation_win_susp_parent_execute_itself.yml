@@ -1,6 +1,6 @@
 title: Potential Executable Run Itself As Sacrificial Process
 id: bafd07c6-3ea5-454a-b4be-058fbb073de7
-status: experimental
+status: test
 description: |
     Detects when an executable launches an identical instance of itself, a behavior often used to create a suspended “sacrificial” process for code injection or evasion.
     Investigate for indicators such as the process being started in suspended mode, rapid parent termination, memory manipulation (e.g., WriteProcessMemory, CreateRemoteThread), or unsigned binaries.

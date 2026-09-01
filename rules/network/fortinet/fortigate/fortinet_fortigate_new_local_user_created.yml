@@ -1,6 +1,6 @@
 title: FortiGate - New Local User Created
 id: ddbbe845-1d74-43a8-8231-2156d180234d
-status: experimental
+status: test
 description: |
     Detects the creation of a new local user on a Fortinet FortiGate Firewall.
     The new local user could be used for VPN connections.

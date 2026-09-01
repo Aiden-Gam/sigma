@@ -1,6 +1,6 @@
 title: AWS Console Login Monitoring
 id: 313e72de-0c0d-4d65-8c95-87f4d546eceb
-status: experimental
+status: test
 description: |
     Detects AWS console logins from countries and IP addresses that are not recognized as legitimate for the organization.
     This alert can help identify potential unauthorized access attempts from unusual locations, which may indicate compromised credentials or malicious activity.
