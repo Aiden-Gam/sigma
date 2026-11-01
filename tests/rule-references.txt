@@ -1897,6 +1897,7 @@ https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices#device-registrations-and-joins-outside-policy
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-infrastructure#conditional-access
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts#assignment-and-elevation
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts#changes-to-privileged-accounts
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts#things-to-monitor
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-identity-management#azure-ad-roles-assignment
@@ -1997,6 +1998,7 @@ https://learn.microsoft.com/en-us/previous-versions/dotnet/framework/data/xml/xs
 https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/automate-word-create-file-using-visual-basic
 https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/aa394225(v=vs.85)
 https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms766431(v=vs.85)
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4616
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4624
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4634
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4647
@@ -2006,6 +2008,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4699
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4701
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4706
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4741
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4743
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4794
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-5140
@@ -2023,6 +2026,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-serve
 https://learn.microsoft.com/en-us/sql/odbc/odbcconf-exe?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-procoption-transact-sql?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/t-sql/statements/drop-server-audit-transact-sql?view=sql-server-ver16
+https://learn.microsoft.com/en-us/sql/t-sql/statements/truncate-table-transact-sql?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sysinternals/downloads/livekd
 https://learn.microsoft.com/en-us/sysinternals/downloads/procdump
 https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
@@ -2852,6 +2856,7 @@ https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomw
 https://thedfirreport.com/2023/10/30/netsupport-intrusion-results-in-domain-compromise/
 https://thedfirreport.com/2024/06/10/icedid-brings-screenconnect-and-csharp-streamer-to-alphv-ransomware-deployment/#detections
 https://thedfirreport.com/2024/09/30/nitrogen-campaign-drops-sliver-and-ends-with-blackcat-ransomware/
+https://thedfirreport.com/2025/02/24/confluence-exploit-leads-to-lockbit-ransomware/
 https://thehackernews.com/2023/10/experts-warn-of-severe-flaws-affecting.html
 https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html
 https://thehackernews.com/2024/03/github-rolls-out-default-secret.html
@@ -3355,6 +3360,7 @@ https://web.archive.org/web/20170319121015/http://www.threatgeek.com/2017/03/wid
 https://web.archive.org/web/20170715043507/http://www.exploit-monday.com/2016/08/windbg-cdb-shellcode-runner.html
 https://web.archive.org/web/20171001085340/https://subt0x10.blogspot.com/2017/04/bypass-application-whitelisting-script.html
 https://web.archive.org/web/20171113231705/https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks
+https://web.archive.org/web/20180203014709/https://blog.alsid.eu/dcshadow-explained-4510f52fc19d?gi=c426ac876c48
 https://web.archive.org/web/20180331144337/https://www.fireeye.com/blog/threat-research/2018/03/sanny-malware-delivery-method-updated-in-recently-observed-attacks.html
 https://web.archive.org/web/20180402134442/https://nyotron.com/wp-content/uploads/2018/03/Nyotron-OilRig-Malware-Report-March-2018C.pdf
 https://web.archive.org/web/20180718061628/https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2
@@ -3395,6 +3401,7 @@ https://web.archive.org/web/20220830122045/http://blog.talosintelligence.com/202
 https://web.archive.org/web/20220830134315/https://content.fireeye.com/apt-41/rpt-apt41/
 https://web.archive.org/web/20221019044836/https://nsudo.m2team.org/en-us/
 https://web.archive.org/web/20221026202428/https://gist.github.com/code-scrap/d7f152ffcdb3e0b02f7f394f5187f008
+https://web.archive.org/web/20221204161143/https://www.glitch-cat.com/p/green-lambert-and-attack
 https://web.archive.org/web/20230208123920/https://cyberwardog.blogspot.com/2017/03/chronicles-of-threat-hunter-hunting-for_22.html
 https://web.archive.org/web/20230329153811/https://blog.menasec.net/2019/02/threat-huting-10-impacketsecretdump.html
 https://web.archive.org/web/20230329155141/https://blog.menasec.net/2019/03/threat-hunting-26-remote-windows.html
@@ -3479,6 +3486,7 @@ https://www.cadosecurity.com/blog/spinning-yarn-a-new-linux-malware-campaign-tar
 https://www.cadosecurity.com/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence/
 https://www.carbonblack.com/2014/06/10/screenshot-demo-hunt-evil-faster-than-ever-with-carbon-black/
 https://www.carbonblack.com/blog/tau-threat-intelligence-notification-lockergoga-ransomware/
+https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-302a
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-144a
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a
@@ -3645,6 +3653,7 @@ https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 https://www.hackingarticles.in/rdp-session-hijacking-with-tscon/
 https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/
 https://www.helpnetsecurity.com/2023/08/02/aws-instances-attackers-access/
+https://www.hexacorn.com/blog/2023/06/07/this-lolbin-doesnt-exist/
 https://www.hhs.gov/sites/default/files/manage-engine-vulnerability-sector-alert-tlpclear.pdf
 https://www.horizon3.ai/manageengine-cve-2022-47966-technical-deep-dive/
 https://www.huntandhackett.com/blog/revil-the-usage-of-legitimate-remote-admin-tooling
@@ -3715,6 +3724,7 @@ https://www.lexjansen.com/sesug/1993/SESUG93035.pdf
 https://www.linkedin.com/feed/update/urn:li:activity:7047435754834198529/
 https://www.linkedin.com/feed/update/urn:li:activity:7282295814792605698/
 https://www.linkedin.com/posts/kleiton-kurti_github-kleiton0x00redditc2-abusing-reddit-activity-7009939662462984192-5DbI/?originalSubdomain=al
+https://www.linkedin.com/posts/mauricefielenbach_sharepoint-incidentresponse-windowssecurity-activity-7352653907363303425-bL2f
 https://www.linkedin.com/pulse/exploit-available-dangerous-ms-office-rce-vuln-called-thebenygreen-
 https://www.linkedin.com/pulse/guntior-story-advanced-bootkit-doesnt-rely-windows-disk-baranov-wue8e/
 https://www.linkedin.com/pulse/outlook-backdoor-using-vba-samir-b-/
